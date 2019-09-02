@@ -1,5 +1,5 @@
 package com.darshan.designPattern.statedesign;
-public class TVContext implements State {
+public class TVContext implements State, Cloneable {
 
 	private State tvState;
 
@@ -9,6 +9,10 @@ public class TVContext implements State {
 
 	public State getState() {
 		return this.tvState;
+	}
+
+	@Override protected Object clone() throws CloneNotSupportedException {
+		return super.clone();
 	}
 
 	@Override

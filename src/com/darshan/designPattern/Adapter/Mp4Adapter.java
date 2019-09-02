@@ -1,6 +1,6 @@
 package com.darshan.designPattern.Adapter;
 
-//Target should be implemented
+//Target should be implemented(Which is the one client uses it before)
 //adaptee should have object reference (has a relation) EX: MediaPackage
 public class Mp4Adapter implements MediaPlayer {
 

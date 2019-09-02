@@ -9,4 +9,4 @@ the wiring, the pipes and other complexities.
 NOTE
 ====
  It hides the complexities of the system and provides an interface/class to the client,
- from where the client can access the system.
+ from where the client can access the system/subSystem.
