@@ -1,3 +1,4 @@
+Strategy is a Behavioral design pattern
 
 The Strategy pattern is to be used where you want to choose the algorithm to use at runtime.
 
