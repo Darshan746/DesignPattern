@@ -1,0 +1,11 @@
+
+c
+java:S1192	"MDefine a constant instead of duplicating this literal "Description:" 3 times.(½„Ÿ
+`
+java:S1192	"JDefine a constant instead of duplicating this literal "Price is " 3 times.(½„Ÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÙ–Âÿÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(½„Ÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(³çŸN
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àª÷şıÿÿÿÿ

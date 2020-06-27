@@ -1,6 +1,6 @@
 package com.darshan.designPattern.facade;
 
-public class FacadeClass {
+class FacadeClass {
   private Shape circle;
   private Shape rectangle ;
 
@@ -9,11 +9,11 @@ public class FacadeClass {
     rectangle = new Rectangle();
   }
 
-  public void drawCircle(){
+  void drawCircle(){
     circle.draw();
   }
 
-  public void drawRectangle(){
+  void drawRectangle(){
     rectangle.draw();
   }
 }

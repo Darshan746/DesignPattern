@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bed40a95-35bc-4aee-becd-dca4439dbee9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/Adapter/Mp3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/Adapter/Mp3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/Adapter/Mp4Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/Adapter/Mp4Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/ObserverDesignPattern/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/ObserverDesignPattern/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/ObserverDesignPattern/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/ObserverDesignPattern/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/facade/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/facade/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/facade/FacadeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/facade/FacadeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/strategy/Strategy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/designPattern/strategy/Strategy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp4Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp4Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/FacadeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/FacadeClass.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z4TaS8d3MNnlchSqRnLOC5XOL7" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProtoTypeDemo">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.designPattern.facade.B" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.designPattern.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtoTypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.designPattern.PrototypeDesignPattern.ProtoTypeDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.designPattern.PrototypeDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProtoTypeDemo" />
+        <item itemvalue="Application.B" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed40a95-35bc-4aee-becd-dca4439dbee9" name="Default Changelist" comment="" />
+      <created>1584097429774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584097429774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

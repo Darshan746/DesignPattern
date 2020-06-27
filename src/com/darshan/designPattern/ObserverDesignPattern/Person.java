@@ -2,10 +2,9 @@ package com.darshan.designPattern.ObserverDesignPattern;
 
 public class Person implements Observer
 {
+    private String personName;
 
-    String personName;
-
-    public Person(String personName)
+    Person(String personName)
     {
         this.personName = personName;
     }

@@ -9,8 +9,7 @@ public class Product implements Subject
     String available;
     List<Observer> observers = new ArrayList<Observer>();
 
-    public Product(String productName, String available)
-    {
+    public Product(String productName, String available) {
         this.productName = productName;
         this.available = available;
     }
@@ -30,20 +29,16 @@ public class Product implements Subject
         return available;
     }
 
-    public void setAvailable(String available)
-    {
+    public void setAvailable(String available) {
         this.available = available;
-        if (available.equalsIgnoreCase("available"))
-        {
+        if (available.equalsIgnoreCase("available")) {
             notifyObservers();
         }
     }
 
     @Override
-    public void addObserver(Observer observer)
-    {
+    public void addObserver(Observer observer) {
         observers.add(observer);
-
     }
 
     @Override
@@ -57,12 +52,8 @@ public class Product implements Subject
     public void notifyObservers()
     {
         System.out.println("going to notify the Observer");
-
-        for (Observer observer : observers)
-        {
-            observer.update(getAvailable());
-        }
-
+        for (Observer observer : observers) {
+            observer.update(getAvailable()); }
     }
 
 }
