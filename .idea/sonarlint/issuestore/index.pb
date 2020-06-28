@@ -86,3 +86,5 @@ l
 <src/com/darshan/designPattern/abstractfactory/XMLFacory.java,4/4/44837203b3b7e47272735a7fde74f5012002f374
 r
 Bsrc/com/darshan/designPattern/abstractfactory/FactoryProducer.java,2/5/25e981de4440845a54fa557cb1b27a238a90639a
+n
+>src/com/darshan/designPattern/DecoratorDesignPattern/Readme.md,6/1/61e750db5f6e4b79a26b8e1cd4075e07c8604dbd
