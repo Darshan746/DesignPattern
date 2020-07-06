@@ -2,83 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c0020a-1515-409c-9eb3-ecdfe618f4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/OffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/OnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/095538ee0011e139d05b286a05c6ac3938f9371b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ee865e12173c2775dd59bb795f852f1dd84fa85" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57b19b3729dbe15f7ff4876a2758745f09aeef0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/873df0ea6edf66439f66f289da1548b5f346e462" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ee3139aa7cf098f87e23a3f831b8b7551ef203f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb949c4842be2f4fce97cf32b9f9966dd4238929" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/command/command.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/AdapterClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/AdapterClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/AdapterPattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/AdapterPattern.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/MediaPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/MediaPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/MediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/MediaPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/Mp3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/Mp4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/Adapter/Mp4Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/adapter/Mp4Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/BuilderPattern/BuilderPatternExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/builder/BuilderPatternExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/BuilderPattern/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/builder/Cake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/NormalPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/NormalPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/PizzaDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/PizzaDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/Screenshot 2020-06-28 at 5.07.22 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Screenshot 2020-06-28 at 5.07.22 PM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/FactoryMethodDesignpattern/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/factorymethod/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/FactoryMethodDesignpattern/Computerfactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/factorymethod/Computerfactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/FactoryMethodDesignpattern/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/factorymethod/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/FactoryMethodDesignpattern/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/factorymethod/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/FactoryMethodDesignpattern/Testfactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/factorymethod/Testfactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/ObserverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/observer/ObserverDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/observer/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/observer/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/ObserverDesignPattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/PrototypeDesignPattern/ButttonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/prototype/ButttonExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/PrototypeDesignPattern/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/prototype/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/PrototypeDesignPattern/GreenColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/prototype/GreenColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/PrototypeDesignPattern/ProtoTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/prototype/ProtoTypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/PrototypeDesignPattern/RedColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/prototype/RedColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/DBDeptDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/DBDeptDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/DBEmpDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/DBEmpDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/DBFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/DBFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/Dao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/FactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/XMLDeptDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/XMLDeptDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/XMLEmpDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/XMLEmpDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/abstractfactory/XMLFacory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/abstractfactory/XMLFacory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/FacadeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/FacadeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/FacadeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/FacadeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/facade/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/facade/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/TVContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/TVContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/TVRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/TVRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/TVStartState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/TVStartState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/statedesign/TVStopState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/statedesign/TVStopState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/FacebookStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/FacebookStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/GoogleStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/GoogleStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/ISocialMediaStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/ISocialMediaStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/OrkutStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/OrkutStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/SocialMediaContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/SocialMediaContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/Strategy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/Strategy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/designPattern/strategy/StrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/strategy/StrategyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
