@@ -1,18 +1,14 @@
 package com.darshan.design.pattern.decorator;
 
-
-
 public class CheesePizza extends PizzaDecorator {
 
-    CheesePizza(Pizza pizza) {
+    CheesePizza(final Pizza pizza) {
         super(pizza);
-        this.pizzaName = "CheesePizza";
+        this.pizzaName = pizza.getPizzaType() + " with Cheese";
     }
 
     @Override
     public void bake() {
-        super.bake();
-        System.out.println("Baking the Cheese Pizza");
-
+        System.out.println("Baking the " + pizzaName);
     }
 }

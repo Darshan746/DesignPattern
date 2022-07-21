@@ -1,16 +1,14 @@
 package com.darshan.design.pattern.decorator;
 
-public class VeggiePizza extends PizzaDecorator {
+public class VeggiePizza implements Pizza {
 
-    VeggiePizza(Pizza pizza) {
-        super(pizza);
-        this.pizzaName = "veggiPizza";
+    @Override
+    public String getPizzaType() {
+        return "VegPizza";
     }
 
     @Override
     public void bake() {
-        super.bake();
-        System.out.println("Baking the Veg Pizza");
-
+        System.out.println("baking the veg Pizza!");
     }
 }

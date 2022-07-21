@@ -12,6 +12,11 @@ public class PizzaDecorator implements Pizza {
 
     @Override
     public void bake() {
-        System.out.println("baking Pizza:");
+        return;
+    }
+
+    @Override
+    public String getPizzaType() {
+        return null;
     }
 }

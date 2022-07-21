@@ -1,5 +1,7 @@
 package com.darshan.design.pattern.decorator;
 
 public interface Pizza {
-    public void bake();
+    void bake();
+
+    String getPizzaType();
 }

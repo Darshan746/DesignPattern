@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c0020a-1515-409c-9eb3-ecdfe618f4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/secondExample/Managerial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/DesignPattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/DesignPattern.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Chain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/ChainClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Multiple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/OperationType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Subtract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Chain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Chain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/ChainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/ChainClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Multiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/OperationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/OperationType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Subtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/secondExample/InterviewClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/secondExample/InterviewClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/CheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/NormalPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/PizzaDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/PizzaDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/VeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/VeggiePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/NormalPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/PizzaDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/PizzaDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/VeggiePizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterviewClient">
+  <component name="RunManager" selected="Application.com.darshan.design.pattern.decorator.TestClass">
     <configuration name="ChainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.chainOfResponsibality.firstExample.ChainClient" />
       <module name="DesignPattern" />
@@ -121,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.darshan.designPattern.abstractfactory.TestClass" />
+    <configuration name="com.darshan.design.pattern.decorator.TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.decorator.TestClass" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.darshan.designPattern.abstractfactory.*" />
+          <option name="PATTERN" value="com.darshan.design.pattern.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.darshan.design.pattern.decorator.TestClass" />
         <item itemvalue="Application.InterviewClient" />
         <item itemvalue="Application.com.darshan.design.pattern.chainOfResponsibality.firstExample.ChainClient" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.TestClass (1)" />
-        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
