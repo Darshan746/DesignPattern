@@ -1,4 +1,4 @@
-package com.darshan.design.pattern.chainOfResponsibality;
+package com.darshan.design.pattern.chainOfResponsibality.firstExample;
 
 public class ChainClient {
 
@@ -11,7 +11,7 @@ public class ChainClient {
         subtractChain.setNext(multiplyChain);
         multiplyChain.setNext(addChain);
 
-        final Numbers numbers = new Numbers(1, 2, "subtract");
+        final Numbers numbers = new Numbers(1, 2, "add");
         addChain.process(numbers);
     }
 }

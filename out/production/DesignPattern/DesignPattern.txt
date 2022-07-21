@@ -7,19 +7,12 @@ Behavioral patterns provide solution for the better interaction between objects
 and how to provide lose coupling and flexibility to extend easily.
 
 
-To implement the solution, let’s design one participant one at a time.
-
-ISocialMediaStrategy – The interface which abstract the operation.
-SocialMediaContext – The context which determines the implementation.
-Implementations – Various implementations of ISocialMediaStrategy. E.g. FacebookStrategy, GooglePlusStrategy, TwitterStrategy and OrkutStrategy.
-
-
-1] Chain ff responsibility pattern ( Behavioral design Pattern)
+1] Chain of responsibility pattern ( Behavioral design Pattern)
    ===========================================================
 
     What
     ====
-        Where a request from a Client is passed to chain of Object to process them.
+        when a request from a Client is passed to chain of Object to process it.
         then the Object in the chain will decide themselves who will be processing the request
         whether the request is required to be Sent to the next object in the chain or not.
 
@@ -32,6 +25,12 @@ Implementations – Various implementations of ISocialMediaStrategy. E.g. Facebo
 
        3] Every Object in the chain will should have reference to the next Object in the chain to forward the request to ,
           it is achieved by the java composition.
+
+      Dis-advantages of Chain 0f responsibility pattern
+      =================================================
+      1] if a processor calls the wrong processor, it can lead to a cycle
+      2] It can create deep stack traces, which can affect performance
+      3] It can lead to duplicate code across processors, increasing maintenance
 
 
 

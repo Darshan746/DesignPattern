@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c0020a-1515-409c-9eb3-ecdfe618f4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/secondExample/Managerial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/DesignPattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/DesignPattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Chain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/ChainClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Multiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/OperationType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/Subtract.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignPattern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Chain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Chain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/ChainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/ChainClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Multiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/OperationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/OperationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Subtract.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -36,7 +50,6 @@
   <component name="ProjectId" id="1cAEe7REGuPunTk1g5vaJ6ceCjZ" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -55,13 +68,13 @@
       <recent name="$PROJECT_DIR$/src/com/darshan/designPattern/DecoratorDesignPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.darshan.design.pattern.chainOfResponsibality.ChainClient">
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.command.Person" />
+  <component name="RunManager" selected="Application.InterviewClient">
+    <configuration name="ChainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.chainOfResponsibality.firstExample.ChainClient" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.darshan.design.pattern.command.*" />
+          <option name="PATTERN" value="com.darshan.design.pattern.chainOfResponsibality.firstExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProtoTypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.darshan.designPattern.PrototypeDesignPattern.ProtoTypeDemo" />
+    <configuration name="InterviewClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.chainOfResponsibality.secondExample.InterviewClient" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.darshan.designPattern.PrototypeDesignPattern.*" />
+          <option name="PATTERN" value="com.darshan.design.pattern.chainOfResponsibality.secondExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.command.Person" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.design.pattern.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.darshan.design.pattern.chainOfResponsibality.ChainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.darshan.design.pattern.chainOfResponsibality.ChainClient" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.darshan.design.pattern.chainOfResponsibality.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.darshan.design.pattern.chainOfResponsibality.ChainClient" />
+        <item itemvalue="Application.InterviewClient" />
+        <item itemvalue="Application.com.darshan.design.pattern.chainOfResponsibality.firstExample.ChainClient" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.TestClass (1)" />
         <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.ProtoTypeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -168,8 +181,8 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/Multiple.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/com/darshan/design/pattern/chainOfResponsibality/firstExample/Multiple.java</url>
+          <line>17</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

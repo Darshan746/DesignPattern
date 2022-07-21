@@ -1,4 +1,4 @@
-package com.darshan.design.pattern.chainOfResponsibality;
+package com.darshan.design.pattern.chainOfResponsibality.firstExample;
 
 public enum OperationType {
 

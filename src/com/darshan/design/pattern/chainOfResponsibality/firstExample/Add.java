@@ -1,4 +1,8 @@
-package com.darshan.design.pattern.chainOfResponsibality;
+package com.darshan.design.pattern.chainOfResponsibality.firstExample;
+
+import com.darshan.design.pattern.chainOfResponsibality.firstExample.Chain;
+import com.darshan.design.pattern.chainOfResponsibality.firstExample.Numbers;
+import com.darshan.design.pattern.chainOfResponsibality.firstExample.OperationType;
 
 public class Add implements Chain {
 
