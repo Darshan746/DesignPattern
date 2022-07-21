@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c0020a-1515-409c-9eb3-ecdfe618f4f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/secondExample/InterviewClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/chainOfResponsibality/secondExample/InterviewClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/CheesePizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/NormalPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/PizzaDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/PizzaDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/VeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/darshan/design/pattern/decorator/VeggiePizza.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/NormalPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/PizzaDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/PizzaDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/darshan/design/pattern/decorator/VeggiePizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

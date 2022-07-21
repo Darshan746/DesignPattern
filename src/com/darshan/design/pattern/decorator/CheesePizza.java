@@ -9,6 +9,7 @@ public class CheesePizza extends PizzaDecorator {
 
     @Override
     public void bake() {
+        super.bake();
         System.out.println("Baking the " + pizzaName);
     }
 }
