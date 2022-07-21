@@ -7,13 +7,6 @@ Behavioral patterns provide solution for the better interaction between objects
 and how to provide lose coupling and flexibility to extend easily.
 
 
-To implement the solution, let’s design one participant one at a time.
-
-ISocialMediaStrategy – The interface which abstract the operation.
-SocialMediaContext – The context which determines the implementation.
-Implementations – Various implementations of ISocialMediaStrategy. E.g. FacebookStrategy, GooglePlusStrategy, TwitterStrategy and OrkutStrategy.
-
-
 1] Chain 0f responsibility pattern ( Behavioral design Pattern)
    ===========================================================
 
